@@ -19,10 +19,9 @@ Don't hesitate to write [shameless code](http://red-badger.com/blog/2014/08/20/i
 
 ## Prerequisites
 
-- Minikube >= 1.3 and start a new cluster https://kubernetes.io/docs/tasks/tools/install-minikube/.
-- Helm >= 2.14 https://helm.sh/docs/using_helm/#installing-helm
-- Kubectl >= 1.14 https://kubernetes.io/docs/tasks/tools/install-kubectl/
+- Minikube >= 1.12 and start a new cluster https://minikube.sigs.k8s.io/docs/start/.
+- Helm >= 3 https://helm.sh/docs/intro/install/
+- Kubectl >= 1.16 https://kubernetes.io/docs/tasks/tools/install-kubectl/
 - docker
 - git
 - curl
-- jq
